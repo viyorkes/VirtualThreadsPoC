@@ -1,8 +1,8 @@
-package org.example;
+package virtualthreads.examples;
 
 
 
-public class VirtualThreadsExample {
+public class VirtualSimpleThreadsExample {
 
     public static void main(String[] args) {
         // Simula o processamento de 1000 solicitações HTTP simultâneas
